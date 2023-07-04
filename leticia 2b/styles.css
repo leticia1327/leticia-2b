@@ -1,8 +1,8 @@
-.imagem_2 {
+body{
 
+background-image: url('img2.png');
+}
 
-background-image: url(img2.png);
-
-
-
+.texto-1{
+color: white;
 }
